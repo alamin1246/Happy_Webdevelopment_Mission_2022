@@ -1,0 +1,160 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 35px;
+}
+.mission2022 {
+  color: rgb(119, 0, 255);
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 120px;
+}
+.focusmission-halfwidth {
+  width: 50%;
+  padding-left: 2%;
+}
+.focusmission-halfwidth img {
+  width: 70%;
+}
+p {
+  text-align: justify;
+}
+.explore-button {
+  text-decoration: none;
+  background-color: #ff5959;
+  color: white;
+  font-weight: 700;
+  padding: 12px 40px;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.explore-button:hover {
+  background-color: blue;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#missionfocus {
+  margin-left: 0.5px;
+  border-left: 4px solid;
+  border-image: linear-gradient(purple, orange);
+  border-image-slice: 1;
+}
+.mymission {
+  text-align: center;
+}
+.mission-vision-goal {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.mission {
+  width: 100%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-left: 20px;
+  background-color: #edf5f6;
+  border-radius: 30px;
+}
+.vission {
+  width: 100%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-left: 20px;
+  background-color: #ffeeee;
+  border-radius: 30px;
+}
+.goal {
+  width: 100%;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-left: 20px;
+  background-color: #fff4d6;
+  border-radius: 30px;
+}
+.mission-img img {
+  width: 50%;
+}
+.vission-img img {
+  width: 50%;
+}
+.goal-img img {
+  width: 50%;
+}
+
+.develop-withoutlimits {
+  background-image: url(images/shapes/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  margin-left: 3%;
+}
+.focusmission-halfwidth img {
+  margin-left: 10%;
+}
+.develop-description {
+  margin-right: 5%;
+}
+.develop-button {
+  text-decoration: none;
+  background-color: #ff5959;
+  color: white;
+  font-weight: 700;
+  padding: 12px 40px;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.global-community {
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+.corona-app-blog {
+  background-image: url(images/shapes/shape-3.png);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+}
+.coronah1 {
+  text-align: center;
+}
+.corona {
+  color: rgb(119, 0, 255);
+}
+.span-corona {
+  color: rgb(119, 0, 255);
+}
+.coronadescription {
+  margin-right: 5%;
+}
+.coronaapp-button {
+  text-decoration: none;
+  background-color: #ff5959;
+  color: white;
+  font-weight: 700;
+  padding: 12px 40px;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 150px;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer h1 {
+  text-align: center;
+  font-style: oblique;
+  font-family: "Apple Chancery", "cursive";
+}
+footer h1 span {
+  color: #ff5959;
+}
+footer p {
+  text-align: center;
+}
